@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+div {
+    background-color: coral;
+    line-height: 50px; /*행간 줄 간격*/
+}
+
+span {
+    background-color: aquamarine;
+}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: blue;
+    /*padding: 10px 20px 50px 40px;*/
+    padding-top: 30px; /* bottom, right, left */
+    margin: 50px auto; /* 숫자 값 auto-박스, block 요소의 중심배치 */
+    /* border: 3px solid #000; 선 굵기, 스타일 */
+    /* border-top: 5px solid #000; */
+    border-width: 10px; /* 선의 굵기 - 전체 적용 */
+    border-color: cadetblue; /*선의 색상- 전체 적용 */
+    border-style: solid; /* 선의 스타일 - 전체 적용 */
+    border-radius: 0px 10px 30px 0px; /* 모서리 둥글게 표현 1자리-4개의 모서리 전체 선택
+    2자리 - 왼쪽상단시작 4자리 - 시계방향(시계방향) */
+}
