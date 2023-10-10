@@ -1,0 +1,5 @@
+                a {
+                    text-decoration: none; /*(a태그에 대한 기본 값)글자를 꾸며주는
+                    속성*/
+                    color: #595fff;
+                }
